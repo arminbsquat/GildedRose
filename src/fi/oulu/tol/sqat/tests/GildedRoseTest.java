@@ -50,7 +50,7 @@ public class GildedRoseTest {
 		assertEquals(50, itemBrie.getQuality());
 		
 	}
-	// AgedBrie tests end
+	// AgedBrie tests end //
 	
 	//Sulfuras tests start
 	@Test 
